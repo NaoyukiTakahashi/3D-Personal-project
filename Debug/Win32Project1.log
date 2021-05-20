@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\student\downloads\dxgsmp_no68_xfileskinmeshanimation\main.cpp(156): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+c:\users\student\downloads\dxgsmp_no68_xfileskinmeshanimation\main.cpp(190): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\student\downloads\dxgsmp_no68_xfileskinmeshanimation\main.cpp(50): warning C4715: 'getMeshContainer': 値を返さないコントロール パスがあります。
+  Win32Project1.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
